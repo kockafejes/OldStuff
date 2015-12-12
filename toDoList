@@ -1,0 +1,29 @@
+https://github.com/DaftMonk/generator-angular-fullstack
+
+#Node correction in UBUNTU
+ln -s /usr/bin/nodejs /usr/bin/node
+
+#update node w/ npm
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
+
+http://yeoman.io/
+
+#Ez a normál JS-nél a promise-os megoldás callback helyett: 
+https://www.npmjs.com/package/q
+
+#HTML helyett Jade: 
+http://jade-lang.com/
+
+#CSS helyett LESS: 
+http://lesscss.org/
+
+#Bootstrap amitől egyszerű a sitebuild: 
+http://getbootstrap.com/
+
+#Angular, ami a kliens oldali MVC keretrendszer: 
+https://angularjs.org/
+
+
+http://codepen.io/Russbrown/pen/IgBuh
