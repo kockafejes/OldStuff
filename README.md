@@ -1,6 +1,10 @@
 # OldStuff
 All the links from old accs
 
+#learn Javascript
+
+http://learn-javascript.github.io/
+
 
 # Still to be sorted
 
