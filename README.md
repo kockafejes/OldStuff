@@ -7,13 +7,13 @@ http://learn-javascript.github.io/
 
 # nice blogs:
 
-http://www.2ality.com/
-http://designpepper.com/
-http://manuel.bernhardt.io/
-http://javascriptures.svbtle.com/
-http://blog.risingstack.com/
-http://andyshora.com/
-https://hacks.mozilla.org/
+http://www.2ality.com/ 
+http://designpepper.com/ 
+http://manuel.bernhardt.io/ 
+http://javascriptures.svbtle.com/ 
+http://blog.risingstack.com/ 
+http://andyshora.com/ 
+https://hacks.mozilla.org/ 
 http://blog.thoughtram.io/
 
 
